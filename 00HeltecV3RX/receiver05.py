@@ -33,5 +33,3 @@ while True:
         print(error)
         oled.text(msg,0,0)
         oled.show()
-        time.sleep(5)
-
